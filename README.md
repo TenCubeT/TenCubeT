@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Muhammad</a> 
-<h3 align="center">👾 Developer from Russia 👾</h3>
+<h3 align="center">👾 Just developer 👾</h3>
 
 ---
 
