@@ -1,11 +1,22 @@
-<h1 align="center">Hey there, I'm Muhammad</a> 
-<h3 align="center">👾 Just developer 👾</h3>
+<h3 align="center">Hey there, I'm Muhammad
+  <br>👾 Just developer 👾
+  <br>Game & sound designer</h3>
 
----
+--------------------------------------------------
 
-### Experience & Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" width="60" height="60"/>
+<h3 align="center">Info about me:</h3>
+<p align="center">I'm a first-year student of DSTU (Dagestan State Technical University) studying ICT and AI.
+<br>I participate in different gamejams and hackathons, also I have some of my own pet-projects.
+<br>• Age: <b>18</b> • English level: <b>B2</b> • Main prog language: <b>Python</b> •
+<br>
+<br>• Current private project: Object 10 – Alice •</p>
 
----
+--------------------------------------------------
 
+<h3 align="center">Experience & Skills</h3>
 
+#### Languages<br>[![My Skills](https://skillicons.dev/icons?i=python,swift,cpp,java,html,css&theme=dark)](https://skillicons.dev)
+
+#### Related technologies<br>[![My Skills](https://skillicons.dev/icons?i=git,github,docker,notion,figma,pycharm,vscode&theme=dark)](https://skillicons.dev)
+
+--------------------------------------------------
